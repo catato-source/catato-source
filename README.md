@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+👨🏽‍💻 I'm a Computer Engineering student aiming to become a Web Developer.
+🌱 I’m currently learning JavaScript.
+🤔 I’m looking for help with strengthening my programming skills.
 <!--
 **catato-source/catato-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
